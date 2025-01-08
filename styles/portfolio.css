@@ -155,3 +155,26 @@ main section{
     margin: 35px 50px;
 }
 
+/* resume section styles*/
+
+.resume-container{
+    display: flex;
+    gap: 24px;
+}
+
+.experience-description, .experience-sub-title{
+    color:#757575;
+}
+.experience-sub-title{
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 20px;
+    
+}
+
+.resume hr{
+    margin: 30px 5px;
+}
+.resume-down-cv{
+    margin-top: 50px;
+}
